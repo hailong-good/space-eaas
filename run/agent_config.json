@@ -181,6 +181,10 @@
         "database": "space-eaas"
       }
     },
+    "cors": {
+      "origin": "*",
+      "allowMethods": "GET,HEAD,PUT,POST,DELETE,PATCH"
+    },
     "env": "local",
     "name": "space-eaas",
     "keys": "<String len: 9>",
@@ -202,6 +206,7 @@
       },
       "dependencies": {
         "egg": "^3.17.4",
+        "egg-cors": "^3.0.0",
         "egg-mysql": "^4.0.0",
         "mysql2": "3.6.0"
       },
@@ -482,6 +487,17 @@
       "from": "/Users/xuhailong/Desktop/item-web/space-eaas/config/plugin.js",
       "path": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-mysql",
       "version": "4.0.0"
+    },
+    "cors": {
+      "enable": true,
+      "package": "egg-cors",
+      "name": "cors",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Users/xuhailong/Desktop/item-web/space-eaas/config/plugin.js",
+      "path": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-cors",
+      "version": "3.0.0"
     }
   },
   "appInfo": {
@@ -501,6 +517,7 @@
       },
       "dependencies": {
         "egg": "^3.17.4",
+        "egg-cors": "^3.0.0",
         "egg-mysql": "^4.0.0",
         "mysql2": "3.6.0"
       },

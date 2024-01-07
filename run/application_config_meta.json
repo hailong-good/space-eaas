@@ -15,19 +15,9 @@
       "connectionLimit": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-mysql/config/config.default.js"
     }
   },
-  "session": {
-    "maxAge": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
-    "logValue": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js"
-  },
   "security": {
-    "domainWhiteList": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
+      "enable": "/Users/xuhailong/Desktop/item-web/space-eaas/config/config.default.js",
       "type": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
       "ignoreJSON": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
       "useSession": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
@@ -39,6 +29,9 @@
       "supportedRequests": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
       "refererWhiteList": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js"
     },
+    "domainWhiteList": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
     "xframe": {
       "enable": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
       "value": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js"
@@ -77,6 +70,17 @@
       "ipExceptionList": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js",
       "checkAddress": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js"
     }
+  },
+  "cors": {
+    "origin": "/Users/xuhailong/Desktop/item-web/space-eaas/config/config.default.js",
+    "allowMethods": "/Users/xuhailong/Desktop/item-web/space-eaas/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-session/config/config.default.js"
   },
   "helper": {
     "shtml": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-security/config/config.default.js"
@@ -186,6 +190,7 @@
     },
     "dependencies": {
       "egg": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js",
       "egg-mysql": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js",
       "mysql2": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js"
     },
