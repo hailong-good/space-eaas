@@ -1,0 +1,81 @@
+2023-08-05 23:36:08,486 INFO 68436 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 17631516ms at 2023-08-06 04:30:00.002
+2023-08-05 23:36:08,486 INFO 68436 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 1431514ms at 2023-08-06 00:00:00.000
+2023-08-05 23:36:08,486 INFO 68436 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 1432514ms at 2023-08-06 00:00:01.000
+2023-08-05 23:36:08,369 INFO 64852 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:36:08,369 INFO 64852 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:36:08,369 INFO 64852 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:37:11,525 INFO 13744 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 17568477ms at 2023-08-06 04:30:00.002
+2023-08-05 23:37:11,525 INFO 13744 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 1368475ms at 2023-08-06 00:00:00.000
+2023-08-05 23:37:11,525 INFO 13744 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 1369475ms at 2023-08-06 00:00:01.000
+2023-08-05 23:37:11,420 INFO 68992 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:37:11,420 INFO 68992 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:37:11,420 INFO 68992 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:40:12,359 INFO 67020 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 17387642ms at 2023-08-06 04:30:00.001
+2023-08-05 23:40:12,359 INFO 67020 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 1187641ms at 2023-08-06 00:00:00.000
+2023-08-05 23:40:12,360 INFO 67020 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 1188640ms at 2023-08-06 00:00:01.000
+2023-08-05 23:40:12,260 INFO 66836 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:40:12,260 INFO 66836 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:40:12,260 INFO 66836 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:40:58,272 INFO 65648 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:40:58,272 INFO 65648 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:40:58,272 INFO 65648 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:44:05,777 INFO 43044 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:44:05,777 INFO 43044 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:44:05,777 INFO 43044 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:44:19,913 INFO 50836 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:44:19,914 INFO 50836 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:44:19,914 INFO 50836 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:46:13,975 INFO 66288 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:46:13,975 INFO 66288 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:46:13,975 INFO 66288 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:46:25,365 INFO 65636 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:46:25,365 INFO 65636 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:46:25,365 INFO 65636 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:48:50,979 INFO 67956 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16869023ms at 2023-08-06 04:30:00.002
+2023-08-05 23:48:50,979 INFO 67956 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 669021ms at 2023-08-06 00:00:00.000
+2023-08-05 23:48:50,979 INFO 67956 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 670021ms at 2023-08-06 00:00:01.000
+2023-08-05 23:48:50,884 INFO 67036 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:48:50,884 INFO 67036 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:48:50,884 INFO 67036 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:51:56,044 INFO 66292 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16683958ms at 2023-08-06 04:30:00.002
+2023-08-05 23:51:56,044 INFO 66292 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 483956ms at 2023-08-06 00:00:00.000
+2023-08-05 23:51:56,044 INFO 66292 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 484956ms at 2023-08-06 00:00:01.000
+2023-08-05 23:51:55,921 INFO 56264 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:51:55,921 INFO 56264 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:51:55,921 INFO 56264 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:53:28,488 INFO 68580 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16591513ms at 2023-08-06 04:30:00.001
+2023-08-05 23:53:28,488 INFO 68580 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 391512ms at 2023-08-06 00:00:00.000
+2023-08-05 23:53:28,488 INFO 68580 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 392512ms at 2023-08-06 00:00:01.000
+2023-08-05 23:53:28,383 INFO 67492 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:53:28,384 INFO 67492 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:53:28,384 INFO 67492 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:53:46,933 INFO 29568 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:53:46,933 INFO 29568 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:53:46,933 INFO 29568 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:53:59,160 INFO 59124 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:53:59,160 INFO 59124 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:53:59,160 INFO 59124 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:54:08,406 INFO 27972 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:54:08,406 INFO 27972 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:54:08,406 INFO 27972 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:54:18,175 INFO 63948 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:54:18,175 INFO 63948 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:54:18,176 INFO 63948 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:54:18,314 INFO 66680 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16541688ms at 2023-08-06 04:30:00.002
+2023-08-05 23:54:18,314 INFO 66680 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 341686ms at 2023-08-06 00:00:00.000
+2023-08-05 23:54:18,314 INFO 66680 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 342686ms at 2023-08-06 00:00:01.000
+2023-08-05 23:58:35,678 INFO 51564 [Timer] F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 16284324ms at 2023-08-06 04:30:00.002
+2023-08-05 23:58:35,678 INFO 51564 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 84322ms at 2023-08-06 00:00:00.000
+2023-08-05 23:58:35,679 INFO 51564 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 85322ms at 2023-08-06 00:00:01.001
+2023-08-05 23:58:35,572 INFO 41788 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:58:35,572 INFO 41788 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:58:35,572 INFO 41788 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-05 23:59:07,703 INFO 59664 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2023-08-05 23:59:07,703 INFO 59664 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js
+2023-08-05 23:59:07,703 INFO 59664 [egg-schedule]: register schedule F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2023-08-06 00:00:00,016 INFO 59664 [Job#169125120001618310493776700001] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2023-08-06 00:00:00,019 INFO 59664 [-/127.0.0.1/-/2ms SCHEDULE /__schedule?path=F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js&type=worker&cron=0%200%20*%20*%20*] [Job#169125120001618310493776700001] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 2ms. 
+2023-08-06 00:00:00,017 INFO 51564 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399984ms at 2023-08-07 00:00:00.001
+2023-08-06 00:00:01,013 INFO 51564 [Timer] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399989ms at 2023-08-07 00:00:01.002
+2023-08-06 00:00:01,012 INFO 59664 [Job#169125120101018310503721101001] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2023-08-06 00:00:01,033 INFO 59664 [-/127.0.0.1/-/21ms SCHEDULE /__schedule?path=F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js&type=worker&cron=1%200%200%20*%20*%20*] [Job#169125120101018310503721101001] F:\test\egg\space-eaas\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 21ms. 

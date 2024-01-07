@@ -1,0 +1,50 @@
+2024-01-07 18:17:15,387 ERROR 1894 [-/127.0.0.1/-/1ms GET /] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16)
+    --------------------
+    at Protocol._enqueue (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:428:12)
+    at Pool.query (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+errno: -61
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 3306
+fatal: true
+name: "ECONNREFUSEDError"
+pid: 1894
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-01-07 18:19:13,099 ERROR 2051 [-/127.0.0.1/-/1ms GET /] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (node:events:514:28)
+    at Handshake._onTimeout (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+    --------------------
+    at Protocol._enqueue (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:428:12)
+    at Pool.query (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 2051
+hostname: xuhailongdeMacBook-Pro.local
+

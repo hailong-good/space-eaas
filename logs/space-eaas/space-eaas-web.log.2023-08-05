@@ -1,0 +1,135 @@
+2023-08-05 23:36:16,591 ERROR 64852 [-/127.0.0.1/-/5ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 64852
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:37:13,443 ERROR 68992 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 68992
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:37:20,050 ERROR 68992 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 68992
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:37:20,295 ERROR 68992 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 68992
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:37:20,508 ERROR 68992 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 68992
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:37:20,702 ERROR 68992 [-/127.0.0.1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 68992
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:40:18,851 ERROR 66836 [-/127.0.0.1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 66836
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:53:49,870 ERROR 29568 [-/127.0.0.1/-/6ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 29568
+hostname: LAPTOP-M9N1T4U8
+
+2023-08-05 23:53:49,946 ERROR 29568 [-/127.0.0.1/-/2ms GET /inject.js.map] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (F:\test\egg\space-eaas\node_modules\egg\lib\application.js:285:15)
+    at Object.get cookies [as cookies] (F:\test\egg\space-eaas\node_modules\egg\app\extend\context.js:23:66)
+    at Object.get [egg-security#CSRF_SECRET] (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:90:35)
+    at Object.ensureCsrfSecret (F:\test\egg\space-eaas\node_modules\egg-security\app\extend\context.js:103:13)
+    at csrf (F:\test\egg\space-eaas\node_modules\egg-security\lib\middlewares\csrf.js:13:11)
+    at dispatch (F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at F:\test\egg\space-eaas\node_modules\egg-security\node_modules\koa-compose\index.js:34:12
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at session (F:\test\egg\space-eaas\node_modules\koa-session\index.js:41:13)
+    at dispatch (F:\test\egg\space-eaas\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+
+pid: 29568
+hostname: LAPTOP-M9N1T4U8
+
