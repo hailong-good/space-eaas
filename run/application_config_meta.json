@@ -192,6 +192,7 @@
       "egg": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js",
       "egg-cors": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js",
       "egg-mysql": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js",
+      "jsonwebtoken": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js",
       "mysql2": "/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
