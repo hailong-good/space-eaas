@@ -330,3 +330,157 @@ headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
 pid: 9811
 hostname: xuhailongdeMacBook-Pro.local
 
+2024-03-23 18:17:10,609 ERROR 3682 [-/127.0.0.1/-/22ms GET /wxLogin?param=%7B%22code%22%3A%220e3wlz0w3kYOs23SlX2w3rLkGJ3wlz0w%22%7D] nodejs.TypeError: ctx.body is not a function
+    at HomeController.wxLogin (/Users/xuhailong/Desktop/item-web/space-eaas/app/controller/login.js:79:9)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:45:18)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 3682
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-03-23 18:17:48,380 ERROR 3737 [-/127.0.0.1/-/15ms GET /wxLogin?param=%7B%22code%22%3A%220d3Tnz0w3d0Ps234GL1w326V4m1Tnz0S%22%7D] nodejs.TypeError: ctx.body is not a function
+    at HomeController.wxLogin (/Users/xuhailong/Desktop/item-web/space-eaas/app/controller/login.js:79:9)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:45:18)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 3737
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-03-23 18:18:15,294 ERROR 3762 [-/127.0.0.1/-/17ms GET /wxLogin?param=%7B%22code%22%3A%220f3KEW1w3bTZr23naR0w3Rkzb90KEW16%22%7D] nodejs.TypeError: ctx.body is not a function
+    at HomeController.wxLogin (/Users/xuhailong/Desktop/item-web/space-eaas/app/controller/login.js:79:9)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:45:18)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 3762
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-03-23 18:19:00,259 ERROR 3762 [-/127.0.0.1/-/2ms GET /wxLogin?param=%7B%22code%22%3A%220c3SyD000sPvNR1Cax000n17w52SyD0b%22%7D] nodejs.TypeError: ctx.body is not a function
+    at HomeController.wxLogin (/Users/xuhailong/Desktop/item-web/space-eaas/app/controller/login.js:79:9)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:45:18)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 3762
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-03-23 18:19:07,033 ERROR 3762 [-/127.0.0.1/-/1ms GET /wxLogin?code=0d3WBo1w3l5ys23hQl1w3F7nu81WBo1O] nodejs.TypeError: ctx.body is not a function
+    at HomeController.wxLogin (/Users/xuhailong/Desktop/item-web/space-eaas/app/controller/login.js:79:9)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:45:18)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 3762
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-03-30 12:52:41,112 ERROR 2991 [-/127.0.0.1/-/1ms GET /] nodejs.ER_BAD_DB_ERRORError: ER_BAD_DB_ERROR: Unknown database 'space-eaas'
+    at Sequence._packetToError (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:514:28)
+    at addChunk (node:internal/streams/readable:376:12)
+    --------------------
+    at Protocol._enqueue (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:428:12)
+    at Pool.query (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+code: "ER_BAD_DB_ERROR"
+errno: 1049
+sqlMessage: "Unknown database 'space-eaas'"
+sqlState: "42000"
+fatal: true
+name: "ER_BAD_DB_ERRORError"
+pid: 2991
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-03-30 12:52:50,962 ERROR 3043 [-/127.0.0.1/-/1ms GET /] nodejs.ER_BAD_DB_ERRORError: ER_BAD_DB_ERROR: Unknown database 'space-eaas'
+    at Sequence._packetToError (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:514:28)
+    at addChunk (node:internal/streams/readable:376:12)
+    --------------------
+    at Protocol._enqueue (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:428:12)
+    at Pool.query (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:442:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+code: "ER_BAD_DB_ERROR"
+errno: 1049
+sqlMessage: "Unknown database 'space-eaas'"
+sqlState: "42000"
+fatal: true
+name: "ER_BAD_DB_ERRORError"
+pid: 3043
+hostname: xuhailongdeMacBook-Pro.local
+
+2024-03-30 18:39:57,906 ERROR 14251 [-/192.168.31.226/-/20ms POST /wx/user/setting] nodejs.ReferenceError: paramsToSql is not defined
+    at HomeController.setUser (/Users/xuhailong/Desktop/item-web/space-eaas/app/controller/user.js:33:21)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:45:18)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:44:32)
+    at /Users/xuhailong/Desktop/item-web/space-eaas/node_modules/koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14251
+hostname: xuhailongdeMacBook-Pro.local
+

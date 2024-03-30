@@ -4,4 +4,7 @@ module.exports = (app) => {
     router.post('/register', controller.login.register);
     router.post('/login', controller.login.login);
     router.get('/verifyToken', controller.login.verifyToken);
+    router.get('/wxLogin', controller.login.wxLogin);
+    router.post('/wx/user/setting', controller.user.setUser);
+    router.get('/wx/user/getInfo', controller.user.getUser);
 };
