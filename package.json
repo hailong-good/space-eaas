@@ -1,0 +1,22 @@
+{
+  "name": "space-eaas",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "egg": "^3.17.4",
+    "egg-cors": "^3.0.0",
+    "egg-mysql": "^4.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "3.6.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^6.4.2"
+  },
+  "version": "1.0.0"
+}
